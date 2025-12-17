@@ -2,6 +2,10 @@
 
 ## 🔹Configuração Inicial (Executar uma vez) / Initial Setup (Run once)
 
+⚙️ PT - É sempre um pouco dificil lembrar de codigos do git e do github principalmente para pessoas que estão iniciando. Na tentativa de ajudar compilei abaixo uma lista completa de codigos e claro aceito sugestões.
+
+⚙️ EN - It's always a little difficult to remember Git and GitHub codes, especially for beginners. In an attempt to help, I've compiled a complete list of codes below, and of course, I welcome suggestions.
+
 >git config --global user.name "user.name"
 
 _Define seu nome para todos os projetos no PC._  
