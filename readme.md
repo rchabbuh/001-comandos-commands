@@ -6,7 +6,9 @@
 
 ⚙️ EN - It's always a little difficult to remember Git and GitHub codes, especially for beginners. In an attempt to help, I've compiled a complete list of codes below, and of course, I welcome suggestions.
 
->git config --global user.name "user.name"
+```python
+git config --global user.name "user.name"
+```
 
 _Define seu nome para todos os projetos no PC._  
 _Set your name for all projects on your PC._
