@@ -416,3 +416,6 @@ rm -r "nome_pasta"
 
 _Deletar uma pasta com conteúdo._  
 _Delete a folder containing content._
+
+Espero ter ajudado !  
+_I hope I helped!_
